@@ -1,0 +1,2 @@
+# LAMOST-FITS-in-SPLAT
+Analysis of LAMOST FITS files in SPLAT-VO
